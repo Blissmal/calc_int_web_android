@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:backgroundTint="#03A9F4"
-        android:text="Web"
+        android:text="INSTAGRAM"
         android:textSize="30sp"
         app:cornerRadius="12dp"
         app:layout_constraintBottom_toBottomOf="parent"
